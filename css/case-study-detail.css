@@ -1,0 +1,46 @@
+
+
+body{
+  background-image: url("../img/Elipse.png");
+  background-repeat: no-repeat;
+  background-position-y: 150%;
+  background-position-x: 70%;
+}
+
+  #content {
+    background-color: #eeeeee;
+  }
+  #banner #text-block {
+    position: absolute;
+    z-index: 1;
+    bottom: 120px;
+    color: white;
+    /* background-color: teal; */
+  }
+  .ml-21 {
+    margin-left: 21px;
+  }
+  .mt-21 {
+    margin-top: 21px;
+  }
+  .mr-21 {
+    margin-right: 21px;
+  }
+  .mb-21 {
+    margin-bottom: 21px;
+  }
+  .pt-70 {
+    padding-top: 70px;
+  }
+  .pt-70 {
+    padding-bottom: 70px;
+  }
+  #intro {
+    margin: 50px auto;
+  }
+  #test {
+    background-color: aqua;
+  }
+  #back-button {
+    color: black;
+  }
